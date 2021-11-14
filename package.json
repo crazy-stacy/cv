@@ -1,0 +1,19 @@
+{
+    "name": "cv",
+    "version": "1.0.0",
+    "main": "index.html",
+    "scripts": {
+        "deploy": "gh-pages -d build"
+    },
+    "author": "Anastasiia Telipko",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/crazy-stacy/cv.git"
+    },
+    "bugs": {
+        "url": "https://github.com/crazy-stacy/cv/issues"
+    },
+    "homepage": "https://crazy-stacy.github.io/cv/index.html",
+    "description": ""
+}
